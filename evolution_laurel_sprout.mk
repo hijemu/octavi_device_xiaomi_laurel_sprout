@@ -21,8 +21,9 @@ $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
 
 # Props
 EVO_MAINTAINER := HemantSachdeva
-EVO_BUILD_TYPE := UNOFFICIAL
+EVO_BUILD_TYPE := OFFICIAL
 EVO_SUPPORT_URL := https://t.me/EvolutionXA3
+EVO_DONATE_URL := https://pages.razorpay.com/HemantSachdeva
 
 TARGET_GAPPS_ARCH := arm64
 TARGET_BOOT_ANIMATION_RES := 720
